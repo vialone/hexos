@@ -1,0 +1,4 @@
+k:uart_puts:"Init file started"
+k:exec:"sys/rootproc.elf"
+k:putgbus:"rootproc","start cii.elf"
+k:putgbus:"rootproc","setmode userland defaultuser"
